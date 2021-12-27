@@ -4,7 +4,7 @@
   "description": "",
   "author": "",
   "scripts": {
-    "start": "node sigserv.js"
+    "start": "node sigserv_pretty.js"
   },
   "dependencies": {
     "ws": "^8.4.0",
