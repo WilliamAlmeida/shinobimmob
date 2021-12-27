@@ -2,15 +2,15 @@ module.exports = {
 
 	// Host address for the server. To create a publicly accessible signalling server this will
 	// need to be a public Internet-facing non-translated IP address of the local server.
-	// server_host: "192.168.1.13",
-	server_host: "localhost",
+	server_host: "54.159.116.102",
+	// server_host: "localhost",
 	
 	// Optional override of server port. It is strongly recommended not to specify this. The server
 	// will use port 80 without SSL and port 443 with SSL, which are standard ports. Choosing a
 	// non-standard port may cause some firewalls, routers or NAT devices to block the connection.
 	
 	// server_port: 50001,
-	server_port: 3000,
+	server_port: 34865,
 	
 	// SSL configuration. Use of SSL is strongly recommended. Due to some firewalls, routers or
 	// NAT devices in use on the Internet, insecure WebSocket connections may not be able to connect
