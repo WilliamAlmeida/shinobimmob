@@ -1,0 +1,19 @@
+{
+  "name": "shinobi_signaler",
+  "version": "0.0.1",
+  "description": "",
+  "author": "",
+  "scripts": {
+    "start": "node sigserv.js"
+  },
+  "dependencies": {
+    "ws": "^8.4.0",
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "@types/ws": "^8.2.2"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  }
+}
